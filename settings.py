@@ -1,1 +1,0 @@
-DATABASE_CONFIG_FILE = 'database_main.conf'
